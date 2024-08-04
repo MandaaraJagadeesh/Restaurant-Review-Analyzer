@@ -19,13 +19,6 @@ A machine learning application for analyzing restaurant reviews, utilizing Convo
 - pip
 
 
-## Project Structure
-
-- `train_and_evaluate.py`: Script for training and evaluating aspect classification and sentiment analysis models.
-- `app.py`: Streamlit application script for the interactive web interface.
-- `semeval2014-1.csv`: Dataset used for training the models (must be present in the project directory).
-- `requirements.txt`: List of required Python packages.
-
 
 ## Model Performance
 
